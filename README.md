@@ -1,5 +1,5 @@
-# AirBnB_clone
-## project description:
+# Twitter clone
+## Description:
 
 This prject was given as a mock interview take-home.  It aims to develop a Twitter clone with as many features as possible within a two hour time period. 
 
