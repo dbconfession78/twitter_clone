@@ -1,0 +1,36 @@
+@charset "UTF-8";
+/** Twitter Clone Styles
+ * ------ Header
+ */
+
+header {
+	background-size: 90px;
+	background-color: #1da1f2;
+	background-image: url("../images/twitter.png");
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	height: 210px;
+	width: 100%;
+	border-bottom: 1px solid #CCCCCC;
+}
+
+.EdgeButton {
+	-webkit-font-smoothing: antialiased;
+	float: right;
+    border-radius: 100px;
+    box-shadow: none;
+    cursor: pointer;
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 20px;
+    padding: 6px 16px;
+	margin-top: 20px;
+	margin-right: 20px;
+    position: relative;
+    text-align: center;
+    white-space: nowrap;
+	color: white;
+	background-color: transparent;
+	border: 1px solid white;
+	font-family: Arial;
+}

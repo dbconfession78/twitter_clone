@@ -1,0 +1,70 @@
+.tweet {
+	padding: 20px;
+}
+
+#tweet_input {
+	resize: none;
+	width: 300px;
+	height: 80px;
+	box-shadow: 8px 8px 8px #1da1f2;
+	
+/*	border: 1px solid blue; */
+	border-radius: 10px;
+	padding-top: 0;
+	padding-left: 10px;
+
+}
+
+#tweet_output {
+	border: 1px solid #CCCCCC;
+	width: 300px;
+	height: 100px;
+	float: right;
+	margin: 10px;
+}
+
+#tweet_button {
+	-webkit-font-smoothing: antialiased;
+	float: right;
+    border-radius: 100px;
+    box-shadow: none;
+    cursor: pointer;
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 20px;
+    padding: 6px 16px;
+	margin-top: 20px;
+	margin-right: 20px;
+    position: relative;
+    text-align: center;
+    white-space: nowrap;
+	color: white;
+	background-color: #4AB3F4;
+	border: 1px solid white;
+	font-family: Arial;
+}
+
+.error {
+	color: red;
+}
+
+#wrapper {
+	width: 800px;
+/*	border: 1px solid black; */
+	overflow: hidden;
+	position: relative;
+
+}
+
+#input_container {
+	margin:10px;
+	width: 40%;
+	float: left;
+/*	border: 1px solid red; */
+}
+
+#output_container {
+/*	border: 1px solid green; */
+	float: left;
+	margin-left: 20px;
+}
